@@ -43,7 +43,7 @@
               <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">About</a>
             </li>
             <li class="nav-item mx-0 mx-lg-1">
-              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Portfolio</a>
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#projects">Projects</a>
             </li>
             <li class="nav-item mx-0 mx-lg-1">
               <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact">Contact</a>
@@ -81,9 +81,9 @@
     </section>
 
     <!-- Portfolio Grid Section -->
-    <section class="bg-primary text-white mb-0 portfolio" id="portfolio">
+    <section class="bg-primary text-white mb-0 portfolio" id="projects">
       <div class="container">
-        <h2 class="text-center text-uppercase text-white mb-0">Portfolio</h2>
+        <h2 class="text-center text-uppercase text-white mb-0">Projects</h2>
         <hr class="star-light mb-5">
         <div class="row">
           <div class="col-md-6 col-lg-4">
@@ -93,7 +93,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/cabin.png" alt="">
+              <img class="img-fluid" src="img/portfolio/sct.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -271,10 +271,10 @@
         <div class="container text-center">
           <div class="row">
             <div class="col-lg-8 mx-auto">
-              <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+              <h2 class="text-secondary text-uppercase mb-0">Synthetic CT</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="img/portfolio/cabin.png" alt="">
-              <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+              <img class="img-fluid mb-5" src="img/portfolio/sct.png" alt="">
+              <p class="mb-5">MRI is an imaging modality that offers excellent soft tissue contrast. Currently use of MR in radiotherapy planning requires registration to CT images of the patient. This can lead to registration errors caused by differing patient position, slice thickness, voxel size, 5 geometric distortion, and image contrast. In addition, the patient receives an extra dose and there is greater cost and time associated with this extra scan. Synthetic CT Images can be created to avoid these problems. Synthetic CTs are CT equivalent images created using MR alone. Some of the challenges involved in making these images include the lack of a clear relationship between MR voxel intensity and electron density and determining bone and air. Bone and air can both appear as black on an MR image, making it a challenge to identify which is which, especially close to interfaces. <br /> The two main ways to generate Synthetic CT’s are through Atlas and voxel based methods1. In atlas-based methods, an atlas, which is an average group of image slices, MR image is rigidly registered to an atlas CT. Then the atlas MR image is elastically aligned with a patient MR image, and those exact same transformations are applied to the Atlas CT image which results in a Pseudo/Synthetic CT. In voxel-based methods, tissue classes are segmented based on their MR intensities; then electron densities will be bulk assigned based on the properties of the segmented class1,2. After this step we get a synthetic CT. <br />  Our method aims to combine both voxel and atlas based methods. In addition, it aims to do this automatically, with the only input being a MR DICOM file. We want to judge the feasibility of this method and determine whether we can successfully plan a treatment with these generated images.</p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
                 Close Project</a>
