@@ -100,7 +100,7 @@
         <div class="subheading mb-5">350 Victoria Street · Toronto, ON M5B 2K3 · (416) 822-7321 ·
           <a href="mailto:name@email.com">mark.dsouza@ryerson.ca</a>
         </div>
-        <p class="lead mb-5">I am a fourth year PhD candidate in Biomedical Physics at Ryerson University. My research is based at the Odette Cancer Centre and focuses on water calorimetry for novel radiotherapy techniques.</p>
+        <p class="lead mb-5">I am a fourth year PhD candidate in Biomedical Physics at Toronto Metropolitan University. My research is based at the Odette Cancer Centre and focuses on water calorimetry for novel radiotherapy techniques.</p>
         <div class="social-icons">
           <a href="https://ca.linkedin.com/in/mark-dsouza "target="_blank">
             <i class="fab fa-linkedin-in"></i>
@@ -123,7 +123,7 @@
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
-            <h3 class="mb-0">Ryerson University</h3>
+            <h3 class="mb-0">Toronto Metropolitan University</h3>
             <div class="subheading mb-3">Doctor of Philosophy</div>
             <div>Biomedical Physics, CAMPEP accredited</div>
             <p>GPA: 4.08</p>
@@ -244,7 +244,7 @@ non-supervised machine learning.</li></ul></p>
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">Graduate Teaching Assistant</h3>
-            <div class="subheading mb-3">Ryerson University</div>
+            <div class="subheading mb-3">Toronto Metropolitan University</div>
             <p><ul style="list-style-type:circle;">
 			<li>Provided support for Physics Department courses through instruction, grading, and overseeing labs and tutorials: Physics I, Physics II, Physics: Mechanics, Radiation Therapy for Undergraduate Students, Radiation Therapy for Graduate Students, Radiatioon Physics for Graduate Students (PCS 120, PCS 130, PCS 211, PCS 407, BP 8104, BP8103)</li></ul></p>
           </div>
@@ -352,60 +352,74 @@ non-supervised machine learning.</li></ul></p>
     <th class="tg-0pky"><b>Location</b></th>
     <th class="tg-0pky"><b>Year</b></th>
   </tr>
+   <tr>
+    <td class="tg-y698">AAPM / RSNA Doctoral Fellowship</td>
+    <td class="tg-y698">American Association of Physicists in Medicine</td>
+    <td class="tg-y698">$10000</td>
+    <td class="tg-y698">Alexandria, Virginia</td>
+    <td class="tg-y698">2022</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Ontario Graduate Scolarship</td>
+    <td class="tg-lboi">Government of Ontario</td>
+    <td class="tg-lboi">$15000</td>
+    <td class="tg-lboi">Toronto, Ontario</td>
+    <td class="tg-lboi">2022</td>
+  </tr>
   <tr>
     <td class="tg-y698">Ontario Graduate Scolarship</td>
     <td class="tg-y698">Government of Ontario</td>
     <td class="tg-y698">$15000</td>
-    <td class="tg-y698">Toronto</td>
+    <td class="tg-y698">Toronto, Ontario</td>
     <td class="tg-y698">2021</td>
   </tr>
   <tr>
     <td class="tg-lboi">Sylvia Fedoruk Prize</td>
     <td class="tg-lboi">Canadian Organization of Medical Physicists</td>
     <td class="tg-lboi">$500</td>
-    <td class="tg-lboi">Toronto</td>
+    <td class="tg-lboi">Ottawa, Ontario</td>
     <td class="tg-lboi">2021</td>
   </tr>
   <tr>
     <td class="tg-y698">Ryerson Graduate Fellowship</td>
     <td class="tg-y698">Ryerson University</td>
     <td class="tg-y698">$8000</td>
-    <td class="tg-y698">Toronto</td>
+    <td class="tg-y698">Toronto, Ontario</td>
     <td class="tg-y698">2020</td>
   </tr>
   <tr>
     <td class="tg-lboi">Department of Physics award</td>
     <td class="tg-lboi">Ryerson University</td>
     <td class="tg-lboi">$1000</td>
-    <td class="tg-lboi">Toronto</td>
+    <td class="tg-lboi">Toronto, Ontario</td>
     <td class="tg-lboi">2020</td>
   </tr>
   <tr>
     <td class="tg-y698">Department of Physics Travel Award</td>
     <td class="tg-y698">Ryerson University</td>
     <td class="tg-y698">$1500</td>
-    <td class="tg-y698">Toronto</td>
+    <td class="tg-y698">Toronto, Ontario</td>
     <td class="tg-y698">2019</td>
   </tr>
   <tr>
     <td class="tg-lboi">Ryerson Graduate Fellowship</td>
     <td class="tg-lboi">Ryerson University</td>
     <td class="tg-lboi">$7000</td>
-    <td class="tg-0pky">Toronto</td>
+    <td class="tg-0pky">Toronto, Ontario</td>
     <td class="tg-0pky">2019</td>
   </tr>
   <tr>
     <td class="tg-y698">Department of Physics award</td>
     <td class="tg-y698">Ryerson University</td>
     <td class="tg-y698">$2500</td>
-    <td class="tg-y698">Toronto</td>
+    <td class="tg-y698">Toronto, Ontario</td>
     <td class="tg-y698">2019</td>
   </tr>
   <tr>
     <td class="tg-0pky">Ryerson Graduate Fellowship</td>
     <td class="tg-0pky">Ryerson University</td>
     <td class="tg-0pky">$10000</td>
-    <td class="tg-0pky">Toronto</td>
+    <td class="tg-0pky">Toronto, Ontario</td>
     <td class="tg-0pky">2018</td>
   </tr>
 </table>
@@ -425,7 +439,7 @@ non-supervised machine learning.</li></ul></p>
             <p></p>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">Aug 2021 - Present</span>
+            <span class="text-primary">August 2021 - Present</span>
           </div>
         </div>
 
@@ -437,7 +451,7 @@ non-supervised machine learning.</li></ul></p>
             <p></p>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">Jul 2020 - Present</span>
+            <span class="text-primary">July 2020 - Present</span>
           </div>
         </div>
 		
@@ -450,7 +464,7 @@ non-supervised machine learning.</li></ul></p>
             <p></p>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">Jul 2020 - Present</span>
+            <span class="text-primary">July 2020 - Present</span>
           </div>
         </div>
 
@@ -463,12 +477,12 @@ non-supervised machine learning.</li></ul></p>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
 			<div class="resume-content">
-            <h3 class="mb-0">Ryerson University, Physics Graduate Program Council</h3>
+            <h3 class="mb-0">Toronto Metropolitan University, Physics Graduate Program Council</h3>
             <div class="subheading mb-3">Graduate Student Representative</div>
 
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">Sep 2021 - Present</span>
+            <span class="text-primary">September 2021 - Present</span>
           </div>
         </div>
 		
@@ -477,23 +491,23 @@ non-supervised machine learning.</li></ul></p>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
 			<div class="resume-content">
-            <h3 class="mb-0">Ryerson University, Physics Graduate Student Union</h3>
+            <h3 class="mb-0">Toronto Metropolitan University, Physics Graduate Student Union</h3>
             <div class="subheading mb-3">PhD Representative</div>
 
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">Sep 2021 - Present</span>
+            <span class="text-primary">September 2021 - Present</span>
           </div>
         </div>
 		
 		        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
 			<div class="resume-content">
-            <h3 class="mb-0">Ryerson University, Physics Graduate Student Union</h3>
+            <h3 class="mb-0">Toronto Metropolitan University, Physics Graduate Student Union</h3>
             <div class="subheading mb-3">MSc Representative</div>
 
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">Sep 2019 - Aug 2020</span>
+            <span class="text-primary">September 2019 - Aug 2020</span>
           </div>
         </div>
 
